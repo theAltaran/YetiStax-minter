@@ -1,5 +1,5 @@
 ##########################################################################
-#  CakeStax Compounder v0.1a
+#  YetiStax Compounder v0.1a
 #  - uses Python3
 #  - Install web3 using pip
 #  - Really, we haven't tested this on anything but linux or WSL
